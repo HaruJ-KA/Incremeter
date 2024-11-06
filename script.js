@@ -128,6 +128,7 @@ function changeSize() {
   console.log(size);
 
   he1.style.fontSize = fontSize;
+  he2.style.fontSize = fontSize;
   he21.style.fontSize = fontSize;
   he22.style.fontSize = fontSize;
   t1.style.fontSize = fontSize;
